@@ -7,8 +7,9 @@ body {
 }
 
 .display-picture{
-    width: 500px;
     border-radius: 50%;
+    width: 40%;
+    margin: auto;
 }
 h1 {
     font-size: 3rem;

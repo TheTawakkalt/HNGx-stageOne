@@ -1,0 +1,37 @@
+body {
+    background-color:antiquewhite;
+    margin: 0;
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.display-picture{
+    width: 500px;
+    border-radius: 50%;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Sacramento';
+}
+h1, h2, h3 {
+    margin: 30px auto 0 auto;
+    color: #760027;
+    text-align: center;
+}
+
+.footer {
+    background-color: #760027;
+    padding: 15px 0 15px;
+
+}
+a {
+    color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A167A5;
+}
